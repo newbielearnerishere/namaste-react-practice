@@ -2,7 +2,7 @@
   "name": "namaste-js",
   "version": "1.0.0",
   "description": "This is Namaste React by Hemant Parmar",
-  "main": "App.js",
+ 
   "scripts": {
     "test": "jest"
   },
