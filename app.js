@@ -1,4 +1,7 @@
-//to creat multiple elements
+import React from "react";
+import ReactDOM  from "react";
+
+//to create multiple elements
 const parent = React.createElement(
   "div",
   { id: "parent" },

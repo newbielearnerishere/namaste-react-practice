@@ -1,0 +1,28 @@
+{
+  "name": "namaste-js",
+  "version": "1.0.0",
+  "description": "This is Namaste React by Hemant Parmar",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/newbielearnerishere/namaste-react-practice.git"
+  },
+  "keywords": [],
+  "author": "Hemant Parmar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/newbielearnerishere/namaste-react-practice/issues"
+  },
+  "homepage": "https://github.com/newbielearnerishere/namaste-react-practice#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
